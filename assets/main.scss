@@ -3,3 +3,70 @@
 ---
 
 @import 'modern-resume-theme';
+
+
+.layout {
+    margin-top: 3rem;
+  
+    .details {
+      text-align: left;
+  
+      p {
+        margin-bottom: 3px;
+        font-size: 1.6rem;
+        text-align: inherit;
+        font-weight: 300;
+  
+        b {
+          font-weight: 500;
+        }
+      }
+  
+      @media screen and (max-width: 768px) {
+        text-align: center!important;
+  
+        p {
+          text-align: center!important;
+        }
+      }
+  
+      a {
+        color: inherit;
+        font-style: italic;
+        font-weight: 300;
+      }
+  
+      .fa {
+        font-size: 2rem;
+      }
+  
+      .link {
+        font-size: 1.5rem;
+      }
+  
+      h4 {
+        margin-bottom: 0.1rem;
+        font-weight: 500;
+  
+        @media print {
+          margin-bottom: 0.2rem;
+        }
+  
+        a {
+          font-weight: 500;
+        }
+      h5 {
+        margin-bottom: 0.1rem;
+        font-weight: 250;
+        color: red
+  
+        @media print {
+          margin-bottom: 0.2rem;
+        }
+  
+        a {
+          font-weight: 500;
+        }
+      }
+    }
+  }
