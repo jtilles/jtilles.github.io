@@ -1,15 +1,26 @@
 - layout: left
-  company: NASA Langley Research Center /br Hampton, VA
+  company: NASA Langley Research Center </br> Hampton, VA
   link: https://www.nasa.gov/langley
   job_title: Electrical Engineer
   dates: July 2017 - Present
   quote: >
    Finding innovative solutions to advance technology and space exploration for the United States of America
   description: | # this will include new lines to allow paragraphs
-    ## [Navigation Dopplar Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk)
+    ## [Navigation Dopplar Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk) - Electronics Engineer
     *NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis] mission (returning America to the Moon).  It uses triple pulsed LIDAR to provide altitude and velocity vectors for the landing system*
-    ## Tasks
+    ### Tasks
     * Mature electronics from an engineering demonstration to NASA Class A to be used on Human Space Flight.
     * Develop Spread System Test Board and Test Procedures
     * Perform environmental testing on electronics assemblies
-  
+    ## [Athena](https://ceres.larc.nasa.gov/documents/STM/2019-10/5-WED_1205pm_Priestley.pdf) - Electronics Lead
+    *[Athena](https://www.wired.com/story/now-entering-orbit-tiny-lego-like-modular-satellites/) was a fast paced/ high risk technology demonstration that exercised Langley's ability to work with commercial partners (NovaWurks) to develop a small earth science sattelite payload*
+    ### Tasks
+    * Architect the electronics systems
+    * Design, build, test and deliver the avionics circuit board.
+    * Lead a small, agile team of engineers to design, build, test and deliver Athena electronics system along with associated Ground Support Equipment (GSE)
+    * Work hand in hand with the software team to develop and test the embedded software
+    * Calibration of sensors
+    ## MEDLI2 - Electronics Engineer
+    * Mar Entry, Descent, and Landing Instrumentation 2 (MEDLI2) is the follow on to MEDLI1, and was designed to help collect science data about the martian atmosphere during atmospheric entry on the Mars 2020 Mission.  MEDLI2 is a sensor suite integrated into the Mars 2020 perseverance lander's heat shield that launched on July 30th, 2020 from Cape Caneveral via a ULA Atlas V.*
+    ### Tasks
+    * Support the electronics and sensors through the various environmental testings including: Burn-In, EMI/EMC, Thermal-Vaccum, and Vibration.

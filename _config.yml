@@ -26,7 +26,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Josh and I do not like to accept life as it is, rather I see how I can improve it.  Professionally, I'm an electrical engineer; I accel at bringing electronics designs through their full design cycle, from concept to fabrication and the dreaded documentation associated with it.  In addition to hands-on electronics work, I am also competent in 3D Mechanical Design utilizing SolidWorks (I am a [CSWP](https://www.solidworks.com/certifications/mechanical-design-cswp-mechanical-design)) which I parlay into 3D printing.  I also know enough Python to be dangerous.
 
-  I am most skilled in: <mark>PCB Design</mark>, <mark>Hands-On work</mark>, <mark>Baking Chocolate Chip Cookies</mark>
+  I am most skilled in: <mark>Altium Designer Guru</mark>, <mark>PCB Design</mark>, <mark>Hands-On work</mark>, <mark>Baking Chocolate Chip Cookies</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -41,10 +41,10 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in electrical engineering some of my other interests and hobbies are:
-   - Home Automation
-   - Self Hosting
-   - Wood Working
-   - 3D Printing
+   - Home Automation: I use the [Home Assistant](https://www.home-assistant.io) project to *Awaken my Home*.  A hobby that has a *'wow'* factor to house guests, while usually not driving my wife *too* much crazy.  I focuse on local control of my connected devices, trying to minimize my reliance on the **cloud**
+   - Self Hosting: The cloud is just someone else's computer... since I like to minimize my monthly subscriptions, I try to run as many µServices as I can on my own hardware.  Has forced me to learn networking, docker, software configuration, and have a better understanding of Unix-based systems
+   - Wood Working: Some times I can no longer stare at a computer screen, which is when I go out to my 'Workshop' (garage), and get my hands dirty (dusty).
+   - 3D Printing: Besides the occasional novel sculpture for the neighborhood kids, I focus mostly on practical prints.  I have souped up my [Prusa MK3S](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html?gclid=CjwKCAjwps75BRAcEiwAEiACMSVOtc8_9xH6ZkwL3bo-5C-x4tDjTKyf4_KwSCYYftFeNXq7Vq9lkBoCdqkQAvD_BwE) with [Octoprint](https://octoprint.org/), allowing me to do remote control, remote monitoring, and cool timelapses.
 
 # Footer
 footer_show_references: true
