@@ -4,7 +4,7 @@
   job_title: Electronics Engineer
   dates: July 2017 - Present
   quote: >
-   Finding innovative solutions to advance technology and space exploration for the United States of America
+    Finding innovative solutions to advance technology and space exploration for the United States of America
   description: | # this will include new lines to allow paragraphs
     {:.projectTitle}
     ## **[Navigation Doppler Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk)** - Electronics Engineer
@@ -52,14 +52,14 @@
 
 - layout: Left
   company: Mission Mobility, LLC </br> Chesapeake, VA
-  link: https://missionmobility.com
-  jobs:
-    - title: Design Engineer
-      dates: September 2016 - June 2017
-    - title: Electronics Design Engineer - Ad Hoc
-      dates: June 2017 - January 2020
-  quote: >
-   Small Business with a focus on providing OEM and value-added ruggedized embedded networking equipment to the modern war-fighter.
+  # link: https://missionmobility.com
+  # jobs:
+  #   - title: Design Engineer
+  #     dates: September 2016 - June 2017
+  #   - title: Electronics Design Engineer - Ad Hoc
+  #     dates: June 2017 - January 2020
+  # quote: >
+  #   Small Business with a focus on providing OEM and value-added ruggedized embedded networking equipment to the modern war-fighter.
   description: | # this will include new lines to allow paragraphs
       Test Mission Mobility
 #     {:.projectTitle}
