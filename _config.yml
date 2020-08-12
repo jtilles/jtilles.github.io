@@ -8,7 +8,7 @@ title: Electronics Engineer and Nerd
 email: joshua.t.illes@gmail.com
 website: joshilles.com
 
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -28,7 +28,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Josh and I do not like to accept life as it is, rather I see how I can improve it.  Professionally, I'm an electrical engineer; I accel at bringing electronics designs through their full design cycle, from concept to fabrication and the dreaded documentation associated with it.  In addition to hands-on electronics work, I am also competent in 3D Mechanical Design utilizing SolidWorks (I am a [CSWP](https://www.solidworks.com/certifications/mechanical-design-cswp-mechanical-design)) which I parlay into 3D printing.  I also know enough Python to be dangerous.
 
-  I am most skilled in: <mark>Altium Designer Guru</mark>, <mark>PCB Design</mark>, <mark>Hands-On work</mark>, <mark>Baking Chocolate Chip Cookies</mark>
+  I am most skilled in: <mark>Altium Designer Guru</mark>, <mark>PCB Design</mark>, <mark>Hands-On</mark>, <mark>Baking Chocolate Chip Cookies</mark>
 
 # Projects Section
 # projects_title: Projects
