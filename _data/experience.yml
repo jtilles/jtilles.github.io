@@ -26,5 +26,5 @@
     ### Tasks
     * Support the electronics and sensors through the various environmental testings including: Burn-In, EMI/EMC, Thermal-Vaccum, and Vibration.
   jobs:
-    - title: [Navigation Dopplar Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk) - Electronics Engineer
-    - description: * NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis] mission (returning America to the Moon).  It uses triple pulsed LIDAR to provide altitude and velocity vectors for the landing system*
+    - title: "[Navigation Dopplar Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk) - Electronics Engineer"
+      description: "*NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis] mission (returning America to the Moon).  It uses triple pulsed LIDAR to provide altitude and velocity vectors for the landing system*"
