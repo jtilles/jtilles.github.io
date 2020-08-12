@@ -13,14 +13,14 @@
     * Develop Spread System Test Board and Test Procedures
     * Perform environmental testing on electronics assemblies
     
-    <proj_title>**[Athena](https://ceres.larc.nasa.gov/documents/STM/2019-10/5-WED_1205pm_Priestley.pdf)** - Electronics Lead</<proj_title>
+    <h2 class=proj_title>**[Athena](https://ceres.larc.nasa.gov/documents/STM/2019-10/5-WED_1205pm_Priestley.pdf)** - Electronics Lead</h2>
     *[Athena](https://www.wired.com/story/now-entering-orbit-tiny-lego-like-modular-satellites/) was a fast paced, high risk, technology demonstration that exercised Langley's ability to work with commercial partners (NovaWurks) to develop a small earth science sattelite payload*
     ##### Tasks
     * Architect the electronics systems
     * Design, build, test and deliver the avionics circuit board.
     * Lead a small, agile team of engineers to design, build, test and deliver Athena electronics system along with associated Ground Support Equipment (GSE)
     * Work hand in hand with the software team to develop and test the embedded software
-    * Calibration of sensors
+    * Calibration of <mark>sensors</mark>
     * Designed Automated Test, utilizing lab equipment and [Plotly's Dash Flask Web Framework](https://dash.plotly.com/)
     
     ## **[MEDLI2](https://gameon.nasa.gov/projects/mars-entry-descent-and-landing-instrumentation-2-medli2/)** - Electronics Engineer
