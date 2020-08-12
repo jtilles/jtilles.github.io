@@ -1,9 +1,15 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: NASA Langley Research Center - Hampton, VA
+  link: https://www.nasa.gov/langley
+  job_title: Electrical Engineer
+  dates: July 2017 - Present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   Finding innovative solutions to advance technology and space exploration for the United States of America
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    ## [Navigation Dopplar Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk)
+    *NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis] mission (returning America to the Moon).  It uses triple pulsed LIDAR to provide altitude and velocity vectors for the landing system*
+    ## Tasks
+    * Mature electronics from an engineering demonstration to NASA Class A to be used on Human Space Flight.
+    * Develop Spread System Test Board and Test Procedures
+    * Perform environmental testing on electronics assemblies
+  
