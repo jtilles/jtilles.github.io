@@ -21,8 +21,9 @@
     * Lead a small, agile team of engineers to design, build, test and deliver Athena electronics system along with associated Ground Support Equipment (GSE)
     * Work hand in hand with the software team to develop and test the embedded software
     * Calibration of sensors
+    * Designed Automated Test, utilizing lab equipment and [Plotly's Dash Flask Web Framework](https://dash.plotly.com/)
     
-    ## **MEDLI2** - Electronics Engineer
-    * Mar Entry, Descent, and Landing Instrumentation 2 (MEDLI2) is the follow on to MEDLI1, and was designed to help collect science data about the martian atmosphere during atmospheric entry on the Mars 2020 Mission.  MEDLI2 is a sensor suite integrated into the Mars 2020 perseverance lander's heat shield that launched on July 30th, 2020 from Cape Caneveral via a ULA Atlas V.*
+    ## **[MEDLI2](https://gameon.nasa.gov/projects/mars-entry-descent-and-landing-instrumentation-2-medli2/)** - Electronics Engineer
+    *Mars Entry, Descent, and Landing Instrumentation 2 (MEDLI2) is the follow on to MEDLI1, and was designed to help collect science data about the martian atmosphere during atmospheric entry on the Mars 2020 Mission.  MEDLI2 is a sensor suite integrated into the Mars 2020 perseverance lander's heat shield that launched on July 30th, 2020 from Cape Caneveral via a ULA Atlas V.*
     ##### Tasks
     * Support the electronics and sensors through the various environmental testings including: Burn-In, EMI/EMC, Thermal-Vaccum, and Vibration.
