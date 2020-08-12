@@ -25,3 +25,6 @@
     * Mar Entry, Descent, and Landing Instrumentation 2 (MEDLI2) is the follow on to MEDLI1, and was designed to help collect science data about the martian atmosphere during atmospheric entry on the Mars 2020 Mission.  MEDLI2 is a sensor suite integrated into the Mars 2020 perseverance lander's heat shield that launched on July 30th, 2020 from Cape Caneveral via a ULA Atlas V.*
     ### Tasks
     * Support the electronics and sensors through the various environmental testings including: Burn-In, EMI/EMC, Thermal-Vaccum, and Vibration.
+  jobs:
+    - title: [Navigation Dopplar Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk) - Electronics Engineer
+    - description: * NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis] mission (returning America to the Moon).  It uses triple pulsed LIDAR to provide altitude and velocity vectors for the landing system*
