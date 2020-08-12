@@ -50,43 +50,42 @@
     * Tested and integrated electronics on TALISMAN Arm
     * Designed associated ground support equipment (GSE)
 
-# - layout: Left
-#   company: Mission Mobility, LLC </br> Chesapeake, VA
-#   link: https://missionmobility.com
-#   job_title: Design Engineer
-#   # jobs:
-#     # - title: Design Engineer
-#       # dates: September 2016 - June 2017
-#     # - title: Electronics Design Engineer - Ad Hoc
-#       # dates: June 2017 - January 2020
-#   quote: >
-#     Small Business with a focus on providing OEM and value-added ruggedized embedded networking equipment to the modern war-fighter.
-#   description: | # this will include new lines to allow paragraphs
-#     {:.projectTitle}
-#     ## **USS Gerald R. Ford Radio Communication System** - PCB Designer
-#     *Working with the prime contractor, we developed a system that allowed various parts of the air craft carrier to communicate with each other (flight deck, tower, weapons depot, etc)*
-#     ##### Tasks
-#     * Developed an existing breadboarded design into a printed circuit board for manufacturing and reproducibility.
-#     * Managed electronics manufacturing and assembly
-#     * Assembled prototype boards and tested them in house
-#     * Debug electrical problems at a system level
+- company: Mission Mobility, LLC </br> Chesapeake, VA
+  link: https://missionmobility.com
+  job_title: Design Engineer
+  # jobs:
+    # - title: Design Engineer
+      # dates: September 2016 - June 2017
+    # - title: Electronics Design Engineer - Ad Hoc
+      # dates: June 2017 - January 2020
+  quote: >
+    Small Business with a focus on providing OEM and value-added ruggedized embedded networking equipment to the modern war-fighter.
+  description: | # this will include new lines to allow paragraphs
+    {:.projectTitle}
+    ## **USS Gerald R. Ford Radio Communication System** - PCB Designer
+    *Working with the prime contractor, we developed a system that allowed various parts of the air craft carrier to communicate with each other (flight deck, tower, weapons depot, etc)*
+    ##### Tasks
+    * Developed an existing breadboarded design into a printed circuit board for manufacturing and reproducibility.
+    * Managed electronics manufacturing and assembly
+    * Assembled prototype boards and tested them in house
+    * Debug electrical problems at a system level
 
-#     {:.projectTitle}
-#     ## **Weapons Vault Control System** - PCB Designer
-#     *Inherited a schematic from prime contractor, modified built and tested the design to get ready for short run production (100's).*
-#     ##### Tasks
-#     * Schematic Capture, parts selection (MIL-STD), circuit layout
-#     * Prototype assembly and verification
-#     * Management of the fabrication and assembly of the production runs
-#     * Interfacing with the client to understand needs and interpret requirements
+    {:.projectTitle}
+    ## **Weapons Vault Control System** - PCB Designer
+    *Inherited a schematic from prime contractor, modified built and tested the design to get ready for short run production (100's).*
+    ##### Tasks
+    * Schematic Capture, parts selection (MIL-STD), circuit layout
+    * Prototype assembly and verification
+    * Management of the fabrication and assembly of the production runs
+    * Interfacing with the client to understand needs and interpret requirements
 
-#     {:.projectTitle}
-#     ## **NOMAD Server-Router** - Design Engineer
-#     *I inherited an in-house OEM design from the previous design engineer for an embedded server coupled with a Cisco® 5915 router.  I brought the design from concept to prototype*
-#     ##### Tasks
-#     * Electro-Mechanical packaging done in SolidWorks
-#     * Circuit design, prototyping, and implementation
-#     * Attended industry trade shows to understand market needs and competitive players.
+    {:.projectTitle}
+    ## **NOMAD Server-Router** - Design Engineer
+    *I inherited an in-house OEM design from the previous design engineer for an embedded server coupled with a Cisco® 5915 router.  I brought the design from concept to prototype*
+    ##### Tasks
+    * Electro-Mechanical packaging done in SolidWorks
+    * Circuit design, prototyping, and implementation
+    * Attended industry trade shows to understand market needs and competitive players.
 
 - company: Royal Bank of Scotland
   dates: August 2017 - Present
@@ -117,18 +116,6 @@
     * Electro-Mechanical packaging done in SolidWorks
     * Circuit design, prototyping, and implementation
     * Attended industry trade shows to understand market needs and competitive players.
-
-    I am currently working at The Royal Bank of Scotland as a full stack engineer focusing mostly on the front end of a corporate banking product.
-    Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-    work with the PO defining what we are building.
-
-    I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-    that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-    helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
-
-    I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-    in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service
-    to the customers while also developing to the highest standards.
 
 - layout: right
   company: Simitive
