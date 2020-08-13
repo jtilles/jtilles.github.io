@@ -4,4 +4,8 @@ This repository contains an online version of my [professional resume](https://j
 It is currently built and hosted utilizing [Github Pages](github.io).
 
 ### Screenshot
+**Dark Theme**
 ![img](images/screenshot.png)
+
+**Light Theme**
+![img](images/screenshot-light.png)
