@@ -89,19 +89,65 @@
 - company: Unikey Technologies </br> Orlando, FL
   link: https://www.unikey.com/
   jobs:
-    - title: Design Engineer
+    - title: Electronics Design Engineer
       dates: August 2015 - July 2016
-    - title: Electronics Intern
+    - title: Test Team Intern
       dates: September 2014 - August 2015
   quote: >
-    Start-up phase tech business determined to revolutionize the key with its mobile key platform
-  description: Some nice filler text goes here
-  # description: | # this will include new lines to allow paragraphs
-  #   {:.projectTitle}
-  #   ## **USS Gerald R. Ford Radio Communication System** - PCB Designer
-  #   *Working with the prime contractor, we developed a system that allowed various parts of the air craft carrier to communicate with each other (flight deck, tower, weapons depot, etc)*
-  #   ##### Tasks
-  #   * Developed an existing breadboarded design into a printed circuit board for manufacturing and reproducibility.
-  #   * Managed electronics manufacturing and assembly
-  #   * Assembled prototype boards and tested them in house
-  #   * Debug electrical problems at a system level
+    Start-up phase tech business determined to revolutionize the key with its mobile key platform.  In addition to being part of the electrical team, I was the 'odd job' guy, if something needed to be fixed, a TV needed to be hung, or general 'handyman' tasks, I was responsible.
+  # description: Some nice filler text goes here
+  description: | # this will include new lines to allow paragraphs
+    {:.projectTitle}
+    ## **Unikey Commercial Lock Prototype** - Electrical Engineer
+    *This effort was put forth to translate Unikey's Bluetooth based, mobile key platform from the residential sector to cater toward commercial customers*
+    ##### Tasks
+    * 'Hacked' existing residential solution into Commercial Card Reader
+    * Worked with the embedded software team to implement *Wiegand* Protocol to communicate with existing commercial solutions
+    * Designed prototype enclosure to present to commercial partners to gauge interest
+
+    {:.projectTitle}
+    ## **Kevo® Fob 2.0** - Electrical Design Engineer
+    *Design effort to modernize and shrink the original bluetooth key fob used in the residential Kevo® line for those users without compatible smart phones (children)*
+    ##### Tasks
+    * Worked with 3rd party industrial designers to validate the mechanical design
+    * Designed bluetooth radio circuit board utilizing novel µComponents (01005's)
+    * Hand assembled prototypes, tested and verified functionality, tuned RF circuitry
+
+    {:.projectTitle}
+    ## **Trade Show Displays** - Fabricator
+    *Designed, and manufactured small, portable 'door scenes' to be displayed at trade shows and to potential commercial partners.*
+    ##### Tasks
+    * Coordinated with the sales team to determine requirements and come up with a design
+    * Uses CNC technology to make the design easily, and quickly reproducible
+    * Attended CES 2016 as technical support to insure operation of the displays
+    
+    {:.projectTitle}
+    ## **Automated Test Equipment** - Intern
+    *Created custom made Automated Test Equipment (ATE) for our Kevo® line of door locks.  The ATE allowed us to do several months of regression testing on new release candidates in the course of a couple days.*
+    ##### Tasks
+    * Worked with an embedded Linux single board computer (Beaglebone Black) to write create a web-based remote UI for controlling the ATE's
+    * Scaled the in house ATE capability with increasing the custom made Faraday cages from 1 to 4
+    * Created mechanical components for physical testing of the units (rotation stage, linear track slider, manual deadbolt lock, etc)
+
+- company: Lockheed Martin </br> Orlando, FL
+  link: https://www.lockheedmartin.com/en-us/who-we-are/business-areas/missiles-and-fire-control.html
+  job_title: Electronics Co-Op
+  dates: January 2013 - September 2014
+  quote: >
+    I worked at Lockheed Martin MFC during my sophomore-senior year at UCF as part of UCF's college work experience program (CWEP).  I worked in the electrical group of the [SNIPER Advanced Targeting Pod](https://www.lockheedmartin.com/en-us/products/sniper.html).
+  # description: Some nice filler text goes here
+  description: | # this will include new lines to allow paragraphs
+    {:.projectTitle}
+    ## **SNIPER LRU Warranty Repair** - Electronics Intern
+    *The SNIPER Line Replaceable Units (LRUs) would come back from the field for repair, I assisted the team in debugging, and having the LRU's electrical systems repaired, and sent back to the customer quickly*
+    ##### Tasks
+    * Assist electrical team in debugging and repair of LRUs
+    * Meet with production team for any ECOs
+
+    {:.projectTitle}
+    ## **SNIPER GEN5 Test Equipment** - Electronics Intern
+    *The SNIPER team was developing GEN5 SNIPER technology to support a 4K sensor, I helped by designing and having test equipment produced*
+    ##### Tasks
+    * Design and develop breakout test boards
+    * Parts Procurement
+    * Produce electrical drawings
