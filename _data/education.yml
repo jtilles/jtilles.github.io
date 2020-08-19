@@ -1,10 +1,10 @@
 - layout: left
-  name: University of Central Florida
-  dates: 2011 - 2015
-  qualification: BS Electrical Engineering
+  name: University of Central Florida </br> Orlando, FL
+  dates: August 2011 - August 2015
+  qualification: Electrical Engineering Graduate (B.S.)
   quote: >
-    I did not let school get in the way of my education; only half of what I learned at UCF came from the classroom.  Having the opportunity to co-op with engineering companies during my tenure gave me valuable experience that springboarded me into my career.
+    Only half of what I learned at UCF came from the classroom.  Between school, co-ops, extracurriculars, and personal life, I learned time management and the importance of prioritization.
   description: | # this will include new lines to allow paragraphs
-    My years spent in Orlando at University of Central Florida were very formative for my engineering career and my life.  Between school, internships, extracurriculars and personal life I learned how to time and priority management.
-
-    I spent a lot of my time with my Engineering Fraternity *Theta Tau* in which I took leadership roles including **Vice President**.
+    * Teaching Assistant for Honor's College Freshman Symposium
+    * Vice President of Theta Tau engineering fraternity
+    * Volunteered at Habitat-for-Humanity's alternative spring break (2013, 2014)
