@@ -139,11 +139,11 @@
     * Installed networking equipment
 
 - company: Lockheed Martin </br> Orlando, FL
-  link: https://www.lockheedmartin.com/en-us/who-we-are/business-areas/missiles-and-fire-control.html
+  link: https://www.lockheedmartin.com
   job_title: Electronics Co-Op
   dates: January 2013 - September 2014
   quote: >
-    Lockheed Martin is the world's largest defense contractor.  The Missiles and Fire Control division is responsible for creating tactical missiles, air-to-ground weapons, and precision targeting systems.  The [SNIPER Advanced Targeting Pod](https://en.wikipedia.org/wiki/Sniper_Advanced_Targeting_Pod) uses a combination of a FLIR detector, HDTV detector, along with advanced image processing to provide the US and its allies with unmatched targeting capabilities. 
+    Lockheed Martin is the world's largest defense contractor.  The Missiles and Fire Control division is responsible for creating tactical missiles, air-to-ground weapons, and precision targeting systems.  The SNIPER Advanced Targeting Pod uses a combination of a FLIR detector, HDTV detector, along with advanced image processing to provide the US and its allies with unmatched targeting capabilities. 
   # description: Some nice filler text goes here
   description: | # this will include new lines to allow paragraphs
     {:.projectTitle}
@@ -154,7 +154,7 @@
     * Met with production team for any ECOs (Engineering Change Orders)
 
     {:.projectTitle}
-    ## **[SNIPER GEN5 Test Equipment](https://www.lockheedmartin.com/en-us/products/sniper.html)** - Electronics Intern
+    ## **[SNIPER GEN5 Test Equipment](https://en.wikipedia.org/wiki/Sniper_Advanced_Targeting_Pod)** - Electronics Intern
     *The SNIPER team was developing GEN5 SNIPER technology to support a new 4K sensor*
     ##### Tasks
     * Designed and developed breakout boards needed to test the next generation LRUs
