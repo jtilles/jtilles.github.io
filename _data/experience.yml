@@ -99,7 +99,7 @@
   description: | # this will include new lines to allow paragraphs
     {:.projectTitle}
     ## **Unikey Commercial Lock Prototype** - Electrical Engineer
-    *The projeect goal was to translate Unikey's Bluetooth based, mobile key platform from the residential sector to cater toward commercial customers*
+    *The project goal was to translate Unikey's Bluetooth based, mobile key platform from the residential sector to cater toward commercial customers*
     ##### Tasks
     * Created proof of concept by integrating existing residential solution into and existing commercial card reader
     * Worked with the embedded software team to implement *Wiegand* Protocol to communicate with existing commercial solutions
