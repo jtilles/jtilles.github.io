@@ -16,7 +16,15 @@
     * Worked hand-in-hand with the software team to develop and test the embedded software
     * Calibrated sensors
     * Designed an automated test, utilizing lab equipment and [Plotly's Dash Flask Web Framework](https://dash.plotly.com/) to allow for more consistent data collection during environmental testing
-    
+
+    {:.projectTitle}
+    ## **[Lunar Surface Manipulation System (LSMS)](https://technology.nasa.gov/patent/LAR-TOPS-73#:~:text=NASA%20Langley%20developed%20the%20LSMS,and%20replacement%20during%20component%20life.)** - Electronics Engineer
+    *LSMS is a technology demonstration mission that aims at creating a space-flight-ready crane for lunar missions*
+    ##### Tasks
+    * Work with 3rd party vendors to design and build electronics and motor systems to actuate the maniuplator
+    * Develop engineering requirements for the electrical system of the project
+    * Coordinate with mechanical team on electro-mechanical packaging
+
     {:.projectTitle}
     ## **[Navigation Doppler Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk)** - Electronics Engineer
     *NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis](https://www.nasa.gov/specials/artemis/) mission (returning the US to the Moon).  It uses triple pulsed LiDAR to provide altitude and velocity vectors for the landing system*
