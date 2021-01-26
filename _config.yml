@@ -2,12 +2,16 @@
 repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
+# Content configuration version
+version: 2
+
 # Personal info
 name: Josh Illes
 title: Electronics Engineer and Nerd
 email: joshua.t.illes@gmail.com
 website: joshilles.com
 
+# Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
@@ -22,6 +26,8 @@ linkedin_username: joshua-illes
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.png
@@ -30,26 +36,207 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Altium Designer Guru</mark>, <mark>PCB Design</mark>, <mark>Hands-On</mark>, <mark>Python</mark> <mark>Baking Chocolate Chip Cookies</mark>
 
-# Projects Section
-# projects_title: Projects
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        company: NASA Langley Research Center </br> Hampton, VA
+        link: https://www.nasa.gov/langley
+        job_title: Electronics Engineer
+        dates: July 2017 - Present
+        quote: >
+          Finding innovative solutions to advance technology and space exploration for the United States of America
+        description: | # this will include new lines to allow paragraphs
+          {:.projectTitle}
+          ## **[Athena](https://ceres.larc.nasa.gov/documents/STM/2019-10/5-WED_1205pm_Priestley.pdf)** - Electronics Lead/ Designer
+          *[Athena](https://www.wired.com/story/now-entering-orbit-tiny-lego-like-modular-satellites/) was a fast paced, high risk, technology demonstration that exercised Langley's ability to work with commercial partners (NovaWurks) to develop a small earth science satellite payload. Athena is slated to be launched in 2022*
+          ##### Tasks
+          * Designed the electronics systems architecture
+          * Designed, built, tested, and delivered the avionics circuit board
+          * Led a small, agile team of engineers to design, build, test, and deliver Athena electronics system along with associated Ground Support Equipment (GSE)
+          * Worked hand-in-hand with the software team to develop and test the embedded software
+          * Calibrated sensors
+          * Designed an automated test, utilizing lab equipment and [Plotly's Dash Flask Web Framework](https://dash.plotly.com/) to allow for more consistent data collection during environmental testing
 
-# Experience Section
-# experience_title: Experience
+          {:.projectTitle}
+          ## **[Lunar Surface Manipulation System (LSMS)](https://technology.nasa.gov/patent/LAR-TOPS-73#:~:text=NASA%20Langley%20developed%20the%20LSMS,and%20replacement%20during%20component%20life.)** - Electronics Engineer
+          *LSMS is a technology demonstration mission that aims at creating a space-flight-ready crane for lunar missions*
+          ##### Tasks
+          * Work with 3rd party vendors to design and build electronics and motor systems to actuate the maniuplator
+          * Develop engineering requirements for the electrical system of the project
+          * Coordinate with mechanical team on electro-mechanical packaging
 
-# Education Section
-# educaton_title: Education
+          {:.projectTitle}
+          ## **[Navigation Doppler Lidar (NDL)](https://www.youtube.com/watch?v=gvcXZa8-Hpk)** - Electronics Engineer
+          *NDL is a novel system that is designed and slated to be used in future moon landers including the [Artemis](https://www.nasa.gov/specials/artemis/) mission (returning the US to the Moon).  It uses triple pulsed LiDAR to provide altitude and velocity vectors for the landing system*
+          ##### Tasks
+          * Develop electronics from an engineering protoype demonstration to the highest standard for use on human space flight (NASA Class A)
+          * Develop Spread System Test Board and Test Procedures
+          * Perform environmental testing on electronics assemblies
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  I am always interested in learning and improving myself.  Through my hobbies, I am constantly adding to my "engineering tool belt".
-   - **Home Automation:** I subscribe to the philosophy that if you frequently do the same thing, it should be automated.  I utilize the open source project [Home Assistant](https://www.home-assistant.io) to help me automate routine tasks.  This includes turning on lights at sunset so we never come home to a dark house, to automatically locking the door at night, adjusting the thermostat based on house occupancy, or alerting house members if doors are left open.  I focus on local control of my connected devices, trying to minimize my reliance on the **cloud** and turn the Internet-of-Things into *my* **Intra**net-of-Things.  Through the course of creating my smart-home, I have been forced to learn concepts like <mark>MQTT</mark>, <mark>reverse proxies</mark>, <mark>docker containers</mark>, <mark>network management</mark>. 
-   - **Self Hosting:** In keeping in with mindset of local control, and avoid subscription fees, I try as much as possible to use services that I host on my local server rather than rely on external cloud providers.  I host services such as storage, wikis, websites, git repositories, continuous integration/ continuous deployment (CI/CD), network speed tests, backups, media management, network configuration, and databases.  These exercises have forced me to learn networking, docker, software configuration and generally have a better understanding of Unix-based systems.
-   - **Wood Working:**  I love working with my hands, and seeing my designs become physical objects that improve life around the house.  Many of my ideas are figured out virtually in CAD before I bring them to life in my shop.
-   - **3D Printing:** I focus mostly on practical prints that I design using mechanical CAD tools.  I have modified my [Prusa MK3S](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html?gclid=CjwKCAjwps75BRAcEiwAEiACMSVOtc8_9xH6ZkwL3bo-5C-x4tDjTKyf4_KwSCYYftFeNXq7Vq9lkBoCdqkQAvD_BwE) with [Octoprint](https://octoprint.org/), allowing me to do remote control, remote monitoring, and cool time-lapses.
+          {:.projectTitle}
+          ## **[SAGE IV](https://www.nasa.gov/feature/langley/prototype-ozone-monitoring-instrument-undergoes-sun-look-testing)** - Electronics Design Engineer
+          *Stratospheric Air and Gas Experiment (SAGE) IV is a project to shrink the previous generation SAGE instruments ([SAGE III](https://en.wikipedia.org/wiki/SAGE_III_on_ISS)) to fit on a cubesat (20cmx10cmx34cm) to lower costs, increase launch opportunities, and ensure continuity of measurement data.  SAGE instruments passively measure atmospheric aersols and gasses using the sun and a spectrometer.*
+          ##### Tasks
+          * Mature electronics from engineering breadboard development to a full flight ready, rad-hard design
+          * Work closely with thermal and mechanical engineers to ensure electronics design meets SWAP (Size, Weight and Power) requirements of the instrument.
+          * Develop flight level electronics documentation
+          
+          {:.projectTitle}
+          ## **[MEDLI2](https://gameon.nasa.gov/projects/mars-entry-descent-and-landing-instrumentation-2-medli2/)** - Electronics Engineer
+          *Mars Entry, Descent, and Landing Instrumentation 2 (MEDLI2) was a sensor suite designed to collect science data about the Martian atmosphere on the Mars 2020 Perseverance Mission.  MEDLI2, which was integrated into the Perseverance's heat shield, will help mankind learn more about the red planet. Mars 2020 was launched on July 30th, 2020 from Cape Canaveral via a ULA Atlas V.*
+          ##### Tasks
+          * Supported the electronics and sensors through the various environmental testings including: Burn-In, EMI/EMC, Thermal-Vacuum, and Vibration.
+          * Performed failure analysis
+          * Developed sensor simulator software using Python to calibrate the myriad sensors
 
+          {:.projectTitle}
+          ## **[TALISMAN](https://technology.nasa.gov/patent/LAR-TOPS-220)** - Electronics Design Engineer
+          *Tension Actuated in Space MANipulator (TALISMAN) was a technology demonstration to create a prototype robotic arm that was both lightweight and long-reaching*
+          ##### Tasks
+          * Worked in a dynamic team to bring COTs (commercial off-the-shelf) electronics from previous iterations to *path-to-flight* level electronics
+          * Designed a motor controller board to drive 4x brushless DC motors (BLDC) utilizing rad-hard electronics *(Microsemi [RTG4](https://www.microsemi.com/product-directory/rad-tolerant-fpgas/3576-rtg4) & [LX7720](https://www.microsemi.com/product-directory/space-system-managers/3708-position-motor-controller-ic))* with resolver feedback
+          * Tested and integrated electronics on the TALISMAN robotic arm
+          * Designed associated ground support equipment (GSE)
+
+      - company: Mission Mobility, LLC </br> Chesapeake, VA
+        link: https://missionmobility.com
+        jobs:
+          - title: Design Engineer
+            dates: September 2016 - June 2017
+          - title: Electronics Design Engineer - Ad Hoc
+            dates: June 2017 - January 2020
+        quote: >
+          Local small business with a focus on providing OEM and value-added ruggedized embedded networking equipment to the modern war-fighter.
+        description: | # this will include new lines to allow paragraphs
+          {:.projectTitle}
+          ## **USS Gerald R. Ford Radio Communication System** - PCB Designer
+          *Working with the prime contractor, Mission Mobility developed a system that allowed various parts of the aircraft carrier to communicate with each other (flight deck, tower, weapons depot, etc.)*
+          ##### Tasks
+          * Developed an existing breadboard design into a printed circuit board for manufacturing
+          * Managed electronics manufacturing and assembly
+          * Assembled prototype boards and tested them in house
+          * Debugged electrical problems at a system level
+
+          {:.projectTitle}
+          ## **Weapons Vault Control System** - PCB Designer
+          *Received a schematic from the prime contractor.  The project goal was to modify, build, and test the design for low volume production (100's of units).*
+          ##### Tasks
+          * Performed schematic capture, selected parts to military standards, and designed the circuit layout
+          * Assembled and verified functionality of the prototype
+          * Managed the fabrication and assembly of the production runs
+          * Communicated with the client to understand needs and capture requirements
+
+          {:.projectTitle}
+          ## **NOMAD Server-Router** - Design Engineer
+          *The project involved bringing an in-house OEM concept design from the previous design engineer for an embedded server coupled with a Cisco® 5915 router to prototype level.*
+          ##### Tasks
+          * Performed electro-mechanical packaging design in SolidWorks
+          * Led circuit design, prototyping, and implementation
+          * Attended industry trade shows to understand market needs and competition
+
+      - company: Unikey Technologies </br> Orlando, FL
+        link: https://www.unikey.com/
+        jobs:
+          - title: Electronics Design Engineer
+            dates: August 2015 - July 2016
+          - title: Test Team Intern
+            dates: September 2014 - August 2015
+        quote: >
+          Start-up phase tech business determined to revolutionize the key with its mobile key platform.
+        # description: Some nice filler text goes here
+        description: | # this will include new lines to allow paragraphs
+          {:.projectTitle}
+          ## **Unikey Commercial Lock Prototype** - Electrical Engineer
+          *The project goal was to translate Unikey's Bluetooth based, mobile key platform from the residential sector to cater toward commercial customers*
+          ##### Tasks
+          * Created proof of concept by integrating existing residential solution into and existing commercial card reader
+          * Worked with the embedded software team to implement *Wiegand* Protocol to communicate with existing commercial solutions
+          * Designed prototype enclosure to present to commercial partners to gauge interest
+
+          {:.projectTitle}
+          ## **Kevo® Fob 2.0** - Electrical Design Engineer
+          *Design effort to modernize and shrink the original bluetooth key fob used in the residential Kevo® line for those users without compatible smart phones*
+          ##### Tasks
+          * Worked with third-party industrial designers to validate the mechanical design
+          * Designed bluetooth radio circuit board utilizing novel µComponents (01005's)
+          * Hand-assembled prototypes, tuned RF circuitry, and tested and verified functionality
+
+          {:.projectTitle}
+          ## **Trade Show Displays** - Fabricator
+          *Designed and manufactured small, portable 'door scenes' to be displayed at trade shows and to potential commercial partners.*
+          ##### Tasks
+          * Coordinated with the sales team to determine requirements and determine an applicable design
+          * Used CNC technology to ensure the design was quickly reproducible
+          * Attended Consumer Electronics Show (CES) 2016 in Las Vegas as technical support to ensure seamless operation of the displays
+          
+          {:.projectTitle}
+          ## **Automated Test Equipment** - Intern
+          *Created custom made Automated Test Equipment (ATE) for the Kevo® line of door locks.  The ATE allowed for several months of regression testing on new release candidates to be completed in the course of a weekend.*
+          ##### Tasks
+          * Worked with an embedded Linux single board computer (Beaglebone Black) to create a web-based remote UI for controlling the ATE's
+          * Scaled the in-house ATE capability by increasing the custom made Faraday cages from one (1) to four (4)
+          * Created mechanical components for physical testing of the units (rotation stage, linear track slider, manual deadbolt lock, etc.)
+
+          {:.projectTitle}
+          ## **Office Operations** - Handyman
+          *UAs a startup company, Unikey required a variety of odd jobs around the office to ensure operation*
+          ##### Tasks
+          * Led office move operations with COO
+          * Installed wall-mounted TVs, whiteboards, monitors, etc.
+          * Assembled desks
+          * Installed networking equipment
+
+      - company: Lockheed Martin </br> Orlando, FL
+        link: https://www.lockheedmartin.com
+        job_title: Electronics Co-Op
+        dates: January 2013 - September 2014
+        quote: >
+          Lockheed Martin is the world's largest defense contractor.  The Missiles and Fire Control division is responsible for creating tactical missiles, air-to-ground weapons, and precision targeting systems.  The SNIPER Advanced Targeting Pod uses a combination of a FLIR detector, HDTV detector, along with advanced image processing to provide the US and its allies with unmatched targeting capabilities. 
+        # description: Some nice filler text goes here
+        description: | # this will include new lines to allow paragraphs
+          {:.projectTitle}
+          ## **[SNIPER LRU Warranty Repair](https://www.lockheedmartin.com/en-us/products/sniper.html)** - Electronics Intern
+          *The SNIPER Line Replaceable Units (LRUs) frequently came from the field for repair, and needed to be debugged and quickly sent back to the customer*
+          ##### Tasks
+          * Assisted the electrical team in debugging and repair of LRUs
+          * Met with production team for any ECOs (Engineering Change Orders)
+
+          {:.projectTitle}
+          ## **[SNIPER GEN5 Test Equipment](https://en.wikipedia.org/wiki/Sniper_Advanced_Targeting_Pod)** - Electronics Intern
+          *The SNIPER team was developing GEN5 SNIPER technology to support a new 4K sensor*
+          ##### Tasks
+          * Designed and developed breakout boards needed to test the next generation LRUs
+          * Procured parts for test fixtures and worked with in-house technicians to assemble test fixtures
+          * Produced electrical drawings for test fixtures and equipment
+
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Harvard University
+        caption: 2010 - 2013
+        sub_title: BSc Computer Science
+        quote: >
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I am always interested in learning and improving myself.  Through my hobbies, I am constantly adding to my "engineering tool belt".
+      - **Home Automation:** I subscribe to the philosophy that if you frequently do the same thing, it should be automated.  I utilize the open source project [Home Assistant](https://www.home-assistant.io) to help me automate routine tasks.  This includes turning on lights at sunset so we never come home to a dark house, to automatically locking the door at night, adjusting the thermostat based on house occupancy, or alerting house members if doors are left open.  I focus on local control of my connected devices, trying to minimize my reliance on the **cloud** and turn the Internet-of-Things into *my* **Intra**net-of-Things.  Through the course of creating my smart-home, I have been forced to learn concepts like <mark>MQTT</mark>, <mark>reverse proxies</mark>, <mark>docker containers</mark>, <mark>network management</mark>. 
+      - **Self Hosting:** In keeping in with mindset of local control, and avoid subscription fees, I try as much as possible to use services that I host on my local server rather than rely on external cloud providers.  I host services such as storage, wikis, websites, git repositories, continuous integration/ continuous deployment (CI/CD), network speed tests, backups, media management, network configuration, and databases.  These exercises have forced me to learn networking, docker, software configuration and generally have a better understanding of Unix-based systems.
+      - **Wood Working:**  I love working with my hands, and seeing my designs become physical objects that improve life around the house.  Many of my ideas are figured out virtually in CAD before I bring them to life in my shop.
+      - **3D Printing:** I focus mostly on practical prints that I design using mechanical CAD tools.  I have modified my [Prusa MK3S](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html?gclid=CjwKCAjwps75BRAcEiwAEiACMSVOtc8_9xH6ZkwL3bo-5C-x4tDjTKyf4_KwSCYYftFeNXq7Vq9lkBoCdqkQAvD_BwE) with [Octoprint](https://octoprint.org/), allowing me to do remote control, remote monitoring, and cool time-lapses.
 # Footer
 footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
