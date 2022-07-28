@@ -1,7 +1,7 @@
 - layout: left
   company: AirClean Systems </br> Creedmoor, NC
   link: https://www.aircleansystems.com
-  job_title: Embedded Electronics Engineer
+  job_title: Lead Electrica/ Software Engineer
   dates: March 2021 - Present
   quote: >
     Manufacturer of the industry's gold standard of ductless fume hoods, enclosures and workstations.
@@ -11,8 +11,25 @@
     *The AC600 Series is our clear line of ductless fume hoods, and our highest volume seller.  The upgrades modernize the industrial design, upgrade the UVTect controller electronics, and enhance manufacturability*
     ##### Tasks
     * Update the controller board of the UVTect controller from a through-hole design with a 8-bit PIC microcontroller to a modern SMD design with a 32-bit ARM Cortex-M4 MCU
-    * Write the embedded software from scratch for the updated controller in C to mimick and extend the functionality of the previous controller
-    * Design, build, test, verify several PCB boards used to minimuze the labor intensive tasks of wiring the units
+    * Write the embedded software from scratch for the updated controller in C to mimic and extend the functionality of the previous controller using FreeRTOS.
+    * Leveraged Unit Testing and Git to produce high quality, tested, and controlled software.
+    * Design, build, test, verify numerous PCB boards used to minimize the labor intensive tasks of wiring the units
+    * Designed, tested, and wrote driver for a digital pressure sensor allowing for further insights into 
+    * Lead safety and EMC regulatory testing at third party facilities
+    * Identified at-risk parts due to shortages, found, tested, and verified alternates
+
+    {:.projectTitle}
+    ## **Misc Duties** - Electrical/ Software Lead
+    *Being in a relatively small company, I am given the opportunity to wear many hats and grow my areas of expertise*
+    #### Tasks
+    * Assist customer service with technical questions from customers.  Occasional travel to customer sites for equipment servicing.
+    * Produce clear documentation for production so units can be assembled consistently
+    * Guide purchasing on alternate parts for obsolete/ out-of-stock items
+    * Revitalized the engineering lab to allow for quicker prototyping, more complex in-house work, and overall engineering department satisfaction
+    * Analyze existing products to determine improvements and implement the changes
+    * Supervise two individuals - provide them with challenges and coaching to grow their software abilities while still maintaining quality work output
+
+
 
 - layout: left
   company: NASA Langley Research Center </br> Hampton, VA

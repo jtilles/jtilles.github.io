@@ -26,9 +26,9 @@ linkedin_username: joshua-illes
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Josh and I am always looking for ways to improve, rather than accept life as it is.  Professionally, I'm an electrical engineer. I excel at bringing electronics designs through the full product design cycle, from concept to fabrication, documentation, testing and integration.  I exceed in a fast-paced, hands-on environment. In addition to hands-on electronics work, I am also fluent in 3D Mechanical Design and know enough Python to be dangerous.
+  Hi, my name is Josh and I am always looking for ways to improve, rather than accept life as it is.  Professionally, I'm an electrical engineer. I excel at bringing electronics designs through the full product design cycle, from concept to fabrication, documentation, testing and integration.  I exceed in a fast-paced, hands-on environment. In addition to electronics/ software design and troubleshooting, I am also fluent in 3D Mechanical Design.
 
-  I am most skilled in: <mark>Altium Designer Guru</mark>, <mark>PCB Design</mark>, <mark>Hands-On</mark>, <mark>Python</mark> <mark>Baking Chocolate Chip Cookies</mark>
+  I am most skilled in: <mark>Altium Designer Guru</mark>, <mark>PCB Design</mark>, <mark>Hands-On</mark>, <mark>Python</mark>, <mark>C</mark>, <mark>Making Change Happen</mark>
 
 # Projects Section
 # projects_title: Projects
@@ -47,6 +47,7 @@ more_content: | # this will include new lines to allow paragraphs
    - **Self Hosting:** In keeping in with mindset of local control, and avoid subscription fees, I try as much as possible to use services that I host on my local server rather than rely on external cloud providers.  I host services such as storage, wikis, websites, git repositories, continuous integration/ continuous deployment (CI/CD), network speed tests, backups, media management, network configuration, and databases.  These exercises have forced me to learn networking, docker, software configuration and generally have a better understanding of Unix-based systems.
    - **Wood Working:**  I love working with my hands, and seeing my designs become physical objects that improve life around the house.  Many of my ideas are figured out virtually in CAD before I bring them to life in my shop.
    - **3D Printing:** I focus mostly on practical prints that I design using mechanical CAD tools.  I have modified my [Prusa MK3S](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3s-kit.html?gclid=CjwKCAjwps75BRAcEiwAEiACMSVOtc8_9xH6ZkwL3bo-5C-x4tDjTKyf4_KwSCYYftFeNXq7Vq9lkBoCdqkQAvD_BwE) with [Octoprint](https://octoprint.org/), allowing me to do remote control, remote monitoring, and cool time-lapses.
+   - **DIY:** My wife and I bought our first home in 2021 and we have been constantly updating it since.  Each new project gives me a novel challenge and helps grow my hands-on abilities.
 
 # Footer
 footer_show_references: true
